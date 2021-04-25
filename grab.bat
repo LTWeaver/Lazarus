@@ -1,0 +1,1 @@
+start grab.exe /stext loot.txt
